@@ -5,7 +5,7 @@
 * Contributors: Ashkan Salehpour
 
 
-* Description: Coordinates Finder is a geolocation platform developed using the LetLeaf library. It empowers users to discover latitude and longitude coordinates by interacting with a user-friendly interface. Whether you need to pinpoint a specific location or explore various coordinates, this tool has you covered. Find coordinates effortlessly and efficiently.
+* Description: Coordinates Finder is a geolocation platform developed using the leaflet library. It empowers users to discover latitude and longitude coordinates by interacting with a user-friendly interface. Whether you need to pinpoint a specific location or explore various coordinates, this tool has you covered. Find coordinates effortlessly and efficiently.
 * Technology:  
 
 
@@ -16,7 +16,7 @@ Programming Languages:
 
 Front-End Frameworks/Libraries:
 
-*LetLeaf: A mapping library used for accurate and up-to-date mapping data.
+*leaflet: A mapping library used for accurate and up-to-date mapping data.
 
 * Create Date: 1402.6.30 / 2023.21.11
 */
